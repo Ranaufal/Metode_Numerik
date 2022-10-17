@@ -74,3 +74,4 @@ while True:
 print("Hasil xi adalah :",x2)
 print("Pada Iterasi ke-",j)
 
+adul
